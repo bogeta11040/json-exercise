@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "parent_id": "0",
+        "name": "Computers",
+        "children": [
+            [
+                {
+                    "id": "9",
+                    "parent_id": "1",
+                    "name": "Laptop",
+                    "children": [
+                        [
+                            {
+                                "id": "4",
+                                "parent_id": "9",
+                                "name": "13 Inches",
+                                "children": []
+                            },
+                            {
+                                "id": "5",
+                                "parent_id": "9",
+                                "name": "15 Inches",
+                                "children": [
+                                    [
+                                        {
+                                            "id": "7",
+                                            "parent_id": "5",
+                                            "name": "Lenovo",
+                                            "children": []
+                                        },
+                                        {
+                                            "id": "8",
+                                            "parent_id": "5",
+                                            "name": "Dell",
+                                            "children": []
+                                        },
+                                        {
+                                            "id": "18",
+                                            "parent_id": "5",
+                                            "name": "Asus",
+                                            "children": []
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "id": "6",
+                                "parent_id": "9",
+                                "name": "17 Inches",
+                                "children": []
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "id": "10",
+                    "parent_id": "1",
+                    "name": "Desktop",
+                    "children": [
+                        [
+                            {
+                                "id": "11",
+                                "parent_id": "10",
+                                "name": "Intel",
+                                "children": [
+                                    [
+                                        {
+                                            "id": "12",
+                                            "parent_id": "11",
+                                            "name": "Intel 8100",
+                                            "children": []
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "id": "2",
+        "parent_id": "0",
+        "name": "Monitors",
+        "children": [
+            [
+                {
+                    "id": "14",
+                    "parent_id": "2",
+                    "name": "ViewSonic",
+                    "children": []
+                }
+            ]
+        ]
+    },
+    {
+        "id": "3",
+        "parent_id": "0",
+        "name": "Keyboards",
+        "children": [
+            [
+                {
+                    "id": "13",
+                    "parent_id": "3",
+                    "name": "Logitech",
+                    "children": [
+                        [
+                            {
+                                "id": "15",
+                                "parent_id": "13",
+                                "name": "K120",
+                                "children": []
+                            },
+                            {
+                                "id": "19",
+                                "parent_id": "13",
+                                "name": "K360",
+                                "children": []
+                            },
+                            {
+                                "id": "17",
+                                "parent_id": "13",
+                                "name": "SlimFolio",
+                                "children": []
+                            }
+                        ]
+                    ]
+                }
+            ]
+        ]
+    }
+]
